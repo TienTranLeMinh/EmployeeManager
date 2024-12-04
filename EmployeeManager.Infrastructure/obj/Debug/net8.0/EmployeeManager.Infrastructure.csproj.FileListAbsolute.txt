@@ -1,0 +1,17 @@
+D:\EmployeeManager\EmployeeManager.Infrastructure\bin\Debug\net8.0\EmployeeManager.Infrastructure.deps.json
+D:\EmployeeManager\EmployeeManager.Infrastructure\bin\Debug\net8.0\EmployeeManager.Infrastructure.runtimeconfig.json
+D:\EmployeeManager\EmployeeManager.Infrastructure\bin\Debug\net8.0\EmployeeManager.Infrastructure.dll
+D:\EmployeeManager\EmployeeManager.Infrastructure\bin\Debug\net8.0\EmployeeManager.Infrastructure.pdb
+D:\EmployeeManager\EmployeeManager.Infrastructure\bin\Debug\net8.0\EmployeeManager.Core.dll
+D:\EmployeeManager\EmployeeManager.Infrastructure\bin\Debug\net8.0\EmployeeManager.Core.pdb
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\EmployeeManager.Infrastructure.csproj.AssemblyReference.cache
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\EmployeeManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\EmployeeManager.Infrastructure.AssemblyInfoInputs.cache
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\EmployeeManager.Infrastructure.AssemblyInfo.cs
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\EmployeeManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\Employee.794F073D.Up2Date
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\EmployeeManager.Infrastructure.dll
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\refint\EmployeeManager.Infrastructure.dll
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\EmployeeManager.Infrastructure.pdb
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\EmployeeManager.Infrastructure.genruntimeconfig.cache
+D:\EmployeeManager\EmployeeManager.Infrastructure\obj\Debug\net8.0\ref\EmployeeManager.Infrastructure.dll
